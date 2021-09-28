@@ -54,16 +54,16 @@
 
   **Modified for use on Heroku, please do not heavily abuse!**
 
-  **Join [this](https://t.me/tgleechsupport) Telegram Group if you want support, I will try to help you as much as I can.**
+  **Join [this](https://t.me/SJ_User) Telegram Group if you want support, I will try to help you as much as I can.**
 
-  <p><a href="https://heroku.com/deploy?template=https://github.com/reaitten/tgtlg"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="200""/></a></p>
+  <p><a href="https://heroku.com/deploy?template=https://github.com/SJ-Lynx/link2file"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="200""/></a></p>
 
   ## Deploy on VPS
 
   - Clone this repo:
   ```
-  git clone -b main https://github.com/reaitten/tgtlg tgtlg
-  cd tgtlg
+  git clone -b main https://github.com/SJ-Lynx/link2file link2file
+  cd link2file
   ```
 
   - Install requirements
@@ -81,7 +81,7 @@
 
   Fill those compulsory variables.
 
-  If you need more explanation about any variable then read [app.json](https://github.com/reaitten/tgtlg/blob/deploy-main/app.json)
+  If you need more explanation about any variable then read [app.json](https://github.com/SJ-Lynx/link2file/blob/deploy-main/app.json)
 
   ### Setup rclone
 
@@ -115,12 +115,12 @@
   ```
   sudo docker run torrentleech-gdrive
   ```
-  Follow this [Video Tutorial](https://youtu.be/J3tMbngA9DE)
+  Follow this [Video Tutorial](https://youtu.be/dqTTojTija8)
   ### The Legacy Way
   Simply clone the repository and run the main file:
 
   ```
-  git clone -b 4forks https://github.com/reaitten/tgtlg
+  git clone -b 4forks https://github.com/SJ-Lynx/link2file
   cd TorrentLeech-Gdrive
   python3 -m venv venv
   . ./venv/bin/activate
